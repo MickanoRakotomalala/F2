@@ -1,0 +1,2 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+T_ouvrier	Machine	RDP+		

@@ -1,0 +1,3 @@
+//MO157-158.TXT ANA00157 TO ANA00158
+T_ParamPrimeMachine		TAR	38	nouvelle taille enregistrement : 38
+T_ParamPrimeMachine	DREF	RUB-		la rubrique DREF est supprimée

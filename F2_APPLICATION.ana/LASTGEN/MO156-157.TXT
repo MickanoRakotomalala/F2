@@ -1,0 +1,2 @@
+//MO156-157.TXT ANA00156 TO ANA00157
+T_ParamPrimeMachine	DateModification	NNR	Modifcation	ATTENTION : la rubrique Modifcation a pour nouveau nom DateModification

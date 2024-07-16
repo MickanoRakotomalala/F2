@@ -1,0 +1,3 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+T_ouvrier		TAR	162	nouvelle taille enregistrement : 162
+T_ouvrier	nom	TAI+	30	la rubrique nom a comme nouvelle taille 51 au lieu de 21

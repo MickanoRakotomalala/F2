@@ -1,0 +1,4 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+T_calculPrime		TAR	88	nouvelle taille enregistrement : 88
+T_calculPrime	RendementKOLOSSAL	RUB+		RendementKOLOSSAL est une nouvelle rubrique
+T_calculPrime	RendementCAF	RUB+		RendementCAF est une nouvelle rubrique

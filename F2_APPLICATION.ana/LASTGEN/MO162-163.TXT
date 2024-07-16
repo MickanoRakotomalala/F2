@@ -1,0 +1,4 @@
+//MO162-163.TXT ANA00162 TO ANA00163
+TAUX_PRIME	Rendement	CLE-*		la rubrique Rendement n'est plus une clé
+TAUX_PRIME	TAUX_NOUVEAU	CLE-*		la rubrique TAUX_NOUVEAU n'est plus une clé
+TAUX_PRIME	TAUX_ANCIEN	CLE-*		la rubrique TAUX_ANCIEN n'est plus une clé

@@ -1,0 +1,3 @@
+//MO160-161.TXT ANA00160 TO ANA00161
+T_calculPrime		TAR	92	nouvelle taille enregistrement : 92
+T_calculPrime	Num_métrique	RUB+		Num_métrique est une nouvelle rubrique

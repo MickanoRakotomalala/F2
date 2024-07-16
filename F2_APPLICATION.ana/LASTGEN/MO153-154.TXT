@@ -1,0 +1,3 @@
+//MO153-154.TXT ANA00153 TO ANA00154
+T_ParamPrime		TAR	38	nouvelle taille enregistrement : 38
+T_ParamPrime	Modification	RUB+		Modification est une nouvelle rubrique

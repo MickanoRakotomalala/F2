@@ -1,0 +1,3 @@
+//MO158-159.TXT ANA00158 TO ANA00159
+T_ParamPrimeMachine		TAR	42	nouvelle taille enregistrement : 42
+T_ParamPrimeMachine	DREF	RUB+		DREF est une nouvelle rubrique

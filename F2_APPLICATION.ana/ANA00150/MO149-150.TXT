@@ -1,0 +1,5 @@
+//MO149-150.TXT ANA00149 TO ANA00150
+T_ouvrier		TAR	170	nouvelle taille enregistrement : 170
+T_ouvrier	Type_Machine	RUB+		Type_Machine est une nouvelle clé
+Type_Machine		NFI		nouveau fichier
+Contrainte_Type_Machine_T_ouvrier		NWL	Type_Machine (Type_Machine) et T_ouvrier (Type_Machine)	Nouvelle liaison entre les fichiers Type_Machine (Type_Machine) et T_ouvrier (Type_Machine)

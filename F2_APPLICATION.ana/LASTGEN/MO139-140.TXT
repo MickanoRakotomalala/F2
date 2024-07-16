@@ -1,0 +1,4 @@
+//MO139-140.TXT ANA00139 TO ANA00140
+TAUX_PRIME		TAR	29	nouvelle taille enregistrement : 29
+TAUX_PRIME		IDE+*		fichier avec identifiant
+TAUX_PRIME	IDTAUX	RUB+		IDTAUX est une nouvelle clé

@@ -1,0 +1,3 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+T_ouvrier		TAR	119	nouvelle taille enregistrement : 119
+T_ouvrier	Machine	RUB-		la rubrique Machine est supprimée

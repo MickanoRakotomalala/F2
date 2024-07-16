@@ -1,0 +1,4 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+T_rembourrage		TAR	88	nouvelle taille enregistrement : 88
+T_rembourrage	IDequipe	RUB+		IDequipe est une nouvelle clé
+Contrainte_T_equipe_T_rembourrage		NWL	T_equipe (IDequipe) et T_rembourrage (IDequipe)	Nouvelle liaison entre les fichiers T_equipe (IDequipe) et T_rembourrage (IDequipe)

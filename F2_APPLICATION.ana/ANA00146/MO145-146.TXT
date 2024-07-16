@@ -1,0 +1,4 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+T_calculPrime		TAR	92	nouvelle taille enregistrement : 92
+T_calculPrime	RendementKOLOSSAL	CNW	Réel sur 4 octets$Entier non signé sur 2 octets	la rubrique RendementKOLOSSAL a pour nouveau type Réel sur 4 octets
+T_calculPrime	RendementCAF	CNW	Réel sur 4 octets$Entier non signé sur 2 octets	la rubrique RendementCAF a pour nouveau type Réel sur 4 octets

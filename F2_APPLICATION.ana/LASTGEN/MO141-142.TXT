@@ -1,0 +1,2 @@
+//MO141-142.TXT ANA00141 TO ANA00142
+T_emploi	majoration	CLEN*		la rubrique majoration est maintenant une clé

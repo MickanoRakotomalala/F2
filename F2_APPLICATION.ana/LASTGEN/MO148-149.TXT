@@ -1,0 +1,4 @@
+//MO148-149.TXT ANA00148 TO ANA00149
+T_rembourrage		TAR	80	nouvelle taille enregistrement : 80
+T_rembourrage	IDequipe	RUB-		la rubrique IDequipe est supprimée
+Contrainte_T_equipe_T_rembourrage		DEL	T_equipe (IDequipe) et T_rembourrage (IDequipe)	Liaison supprimée entre les fichiers T_equipe (IDequipe) et T_rembourrage (IDequipe)

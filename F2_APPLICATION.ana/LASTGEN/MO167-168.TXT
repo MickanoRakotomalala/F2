@@ -1,0 +1,4 @@
+//MO167-168.TXT ANA00167 TO ANA00168
+TAUX_PRIME		TAR	21	nouvelle taille enregistrement : 21
+TAUX_PRIME		IDE-*		fichier sans identifiant
+TAUX_PRIME	IDTAUX	RUB-		la rubrique IDTAUX est supprimée
