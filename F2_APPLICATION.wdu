@@ -222,6 +222,11 @@ ETAT_Details_TAUX_PRIME.wde
 ETAT_Liste_TAUX_PRIME.wde
 FEN_Exception_Prime.wdw
 GABARITS\WD\220 MATERIAL DESIGN RED\MATERIAL DESIGN RED_PICT_HELP_16_5.PNG
+FEN_Fiche_Sans_Prime.wdw
+FEN_Table_Sans_Prime.wdw
+FEN_Vision_Sans_Prime.wdw
+ETAT_Details_Sans_Prime.wde
+ETAT_Liste_Sans_Prime.wde
 F2_APPLICATION.wdy
 Gabarits\WD\220 Material Design Red\Material Design Red.wdy
 Gabarits\WD\220 Material Design Red\MATERIAL DESIGN RED_BREAK_PICT.PNG
